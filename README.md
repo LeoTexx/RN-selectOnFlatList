@@ -17,6 +17,13 @@ In the Pictures List, the selected contact receives a blue border, and in the In
 
 When you select a new contact, it will be focused and centralized in all lists, so you will know the picture and the description of the user
 
+Here it follows a short video showing off the app:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56630468/129404425-cdbc2932-24aa-46bd-9cc8-38e4eb84f599.gif)
+
+
+
+(The gif flicks because of the emulator, sorry for that)
 
 ## Installation
 
@@ -42,7 +49,6 @@ To run our app, you will need to have an emulator or connect on your  device, an
 ```
 
 
-## Contributing
 Feel free to clone and change what would better fit your needs, hope it helps😉
 
 ## Observations
