@@ -1,7 +1,9 @@
 ﻿# React Native Contacts List
 
 React Native app that has two flatLists:
+
 -The first one is a horizontal list containing the images of the contacts
+
 -The second being a vertical list containing the contact info
 
 The contacts info are the following:
@@ -18,7 +20,7 @@ When you select a new contact, it will be focused and centralized in all lists, 
 
 ## Installation
 
-*Clone the repository and install its dependencies:
+Clone the repository and install its dependencies:
 
 ```
 git clone https://github.com/LeoTexx/RN-selectOnFlatList
